@@ -1,0 +1,10 @@
+h1
+{
+  font-size:13px;}
+lable,input {
+  font-size:12px;
+}
+input,textarea  {width:250px;}
+
+.inputdemoErrors .inputErrorsApp {
+  min-height: 48px; }

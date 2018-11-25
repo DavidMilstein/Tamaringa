@@ -1,0 +1,17 @@
+.btn{
+  padding: 10% 30%;
+  border: 2px solid black;
+
+}
+.detective{
+  background-color: royalblue;
+}
+.patient{
+  background-color: greenyellow;
+}
+.admin{
+  background-color: royalblue;
+}
+.welcome{
+margin-left: 20%
+}
